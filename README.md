@@ -1,4 +1,4 @@
-# Scraping-HTML-Challenge | Exploring Mars: Insights from Weather and News Data
+# Scraping-HTML-Challenge | Exploring Mars: Weather and News Data
 
 Welcome to the **Mars Data Exploration**! The goal of this repository is to provide a detailed analysis of weather trends on Mars while showcasing significant findings from NASA’s Mars-related news. The project applies data science methods to uncover patterns, support exploratory missions, and deepen our understanding of Mars' conditions.
 
