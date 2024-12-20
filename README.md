@@ -1,4 +1,4 @@
-# Scraping-HTML-Challenge | Exploring Mars: Weather and News Data
+Mars: Weather and News Data
 
 The project provides code and detailed analysis of weather trends on Mars while showcasing significant findings from NASA’s Mars-related news. The project applies methods to uncover patterns, support exploratory missions, and deepen our understanding of the planet's conditions.
 
