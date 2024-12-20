@@ -16,9 +16,9 @@ Mars presents an environment filled with extreme conditions and seasonal shifts.
 ## Key Features
 
 ### Mars Weather Analysis
-Temperature and pressure trends on Mars reveal a dynamic interplay of seasonal changes. 
+Temperature and pressure trends on Mars reveal a interplay of seasonal changes. 
 - Minimum temperatures were analyzed across months, showing the stark contrasts between Martian summers and winters.
-- Atmospheric pressure trends were reviewed to highlight how the environment shifts over time, influencing phenomena such as dust storms.
+- Atmospheric pressure trends were reviewed to show how the environment shifts over time, influencing phenomena such as dust storms.
 - A deeper look at the cycles of temperature changes offered insights into the length of a Martian year, roughly twice as long as Earth’s.
 
 ### NASA Mars News
